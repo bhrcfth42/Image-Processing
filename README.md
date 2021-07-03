@@ -1,5 +1,24 @@
 # Image-Processing
 
+## SORULAR
+
+**1. odev1.bmp** görüntüsünün parlaklık dağılımını **histogram eşleme (histogram**
+    **matching) ödev1hedef.bmp** görüntüsün dağılımına dönüştüren kodu yazınız. Yazmış
+    olduğunuz kodu veriniz. Eski ve yeni görüntüyü ekleyiniz.
+**2. odev2.bmp** görüntüsündeki gürültüyü temizlemek için **zamansal domende** ortalama
+    filtresi uygulayınız. Sonrasında görüntünün kalitesini arttırmak için keskinleştirme
+    filtresi uygulayınız. Yazdığınız kodu ve elde ettiğiniz görüntüleri veriniz.
+**3.** Frekans uzayında **Butterworth ve İdeal** alçak geçiren süzgeç kullanarak **odev2.bmp**
+    görüntüsünün gürültüsünü temizleyiniz. Elde edilen sonuç görüntüleri verilerek
+    farklarını açıklayınız. (Fourier dönüşümü için hazır fonksiyon kullanınız.) Yazdığınız
+    kodu ve elde ettiğiniz görüntüleri veriniz.
+**4. odev3.bmp** görüntüsünü kontrast arttırma ile görünürlüğünü arttırınız. Yazdığınız kodu
+    ve elde ettiğiniz görüntüleri veriniz.
+**5. odevrenkli.bmp** RGB görüntüsünü HSV uzayına taşıyınız. Kırmızı olan domatesleri
+    sarı göstermek için Hue kanalında kaydırma yapınız. Elde ettiğiniz görüntüyü RGB ye
+    dönüştürerek yeni resmi elde ediniz. Yazdığınız kodu ve elde ettiğiniz görüntüleri
+    veriniz.
+
 # İçerik
 
 ![Image Processing_Sayfa_1](https://user-images.githubusercontent.com/50529546/124368021-6046ea80-dc65-11eb-8628-c7814f73e192.jpg)
